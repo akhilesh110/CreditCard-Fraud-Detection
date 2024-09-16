@@ -1,1 +1,1 @@
-# CreditCard-Fraud-Detection
+Developed a credit card fraud detection model using Logistic Regression. Preprocessed data and split it into training and testing sets, achieving 94% accuracy on the training set and 95% on the testing set. Implemented in Python using Scikit-learn to enhance transaction security.
